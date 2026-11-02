@@ -1,0 +1,15 @@
+# User data and local settings
+*.db
+*.db-*
+*.sqlite*
+*.xlsx
+backups/
+settings.json
+settings.json.tmp
+# Machine-specific and generated files
+.venv/
+__pycache__/
+*.py[cod]
+*.lnk
+ui-preview.png
+dist/
