@@ -13,3 +13,5 @@ __pycache__/
 *.lnk
 ui-preview.png
 dist/
+
+setup.log
